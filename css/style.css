@@ -1,0 +1,38 @@
+body{
+    /* background-color: rgb(243, 240, 240); */
+}
+
+.nav-link{
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+.nav-logo{
+    width:  7.5rem;
+}
+.carousel-button{
+    border-radius: 40% !important;
+}
+
+
+section{
+    margin-top: 70px !important;
+}
+
+
+
+.see-all{
+    color: #ffa500;
+}
+.categories{
+    /* display: block; */
+    /* border-bottom: 8px solid #ffa500;
+    border-bottom-right-radius: 10px; */
+    display: block;
+
+    width: 150px;
+    height: 10px;
+    border: 5px solid #ffa500;
+    border-radius: 10px;
+    margin: auto;
+
+}
