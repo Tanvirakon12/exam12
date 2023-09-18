@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     max-width: 100%;
 }
 
+body{
+    font-family: 'Oswald', sans-serif;
+}
 /* header st  */
 #navber{
     background-color: #fdb228;
@@ -112,7 +117,7 @@ footer{
 }
 
 .last-logo{
-    width: 28%;
+    width: 24%;
 }
 /* footer end  */
 
